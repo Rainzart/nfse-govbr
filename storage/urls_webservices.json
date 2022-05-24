@@ -1,0 +1,12 @@
+{
+    "4303004": {
+        "municipio": "Cachoeira do Sul",
+        "brasao": "brasao_cachoeira_do_sul.png",
+        "uf": "RS",
+        "homologacao": "http:\/\/cachoeiradosul-portais.govcloud.com.br\/nfse.portal.teste",
+        "producao": "http:\/\/cachoeiradosul-portais.govcloud.com.br\/NFSe.Portal.Integracao\/Services.svc?wsdl",
+        "version": "2.02",
+        "msgns": "http://www.abrasf.org.br/nfse.xsd",
+        "soapns": "http://www.issnetonline.com.br/webservice/nfd"
+    }
+}

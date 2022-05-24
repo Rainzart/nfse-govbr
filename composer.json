@@ -1,0 +1,45 @@
+{
+  "name": "hadder/nfse-govbr",
+  "description": "Pacote para geração de NFSe Dueto (Cachoeira do Sul) usando componentes NFePHP (https://github.com/nfephp-org)",
+  "keywords": [
+    "nfse-govbr",
+    "nfse"
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "HaDDeR\\NfseGovbr\\": "src/"
+    },
+    "files": [
+      "Helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Fernando Friedrich",
+      "email": "fernando@hadder.com.br"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.0|^8.0",
+    "nesbot/carbon": "^2.58",
+    "nfephp-org/sped-common": "^5.1",
+    "symfony/var-dumper": "^6.0",
+    "tecnickcom/tcpdf": "^6.4",
+    "ext-json": "*",
+    "ext-openssl": "*",
+    "ext-dom": "*",
+    "ext-curl": "*",
+    "ext-simplexml": "*",
+    "ext-gd": "*",
+    "league/flysystem": "^3.0",
+    "justinrainbow/json-schema": "^5.2",
+    "respect/validation": "^2.2",
+    "ext-bcmath": "*"
+  },
+  "config": {
+    "optimize-autoloader": true
+  },
+  "prefer-stable": true
+}
