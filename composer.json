@@ -25,7 +25,7 @@
     "php": "^7.0|^8.0",
     "nesbot/carbon": "^2.58",
     "nfephp-org/sped-common": "^5.1",
-    "symfony/var-dumper": "^6.0",
+    "symfony/var-dumper": "^5.0|^6.0",
     "tecnickcom/tcpdf": "^6.4",
     "ext-json": "*",
     "ext-openssl": "*",
